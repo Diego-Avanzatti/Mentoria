@@ -90,7 +90,7 @@ print("\n9_\n")
 A = {1, 2, 3}
 B = {3, 4, 5}
 
-interseccion = A | B
+interseccion = A & B
 
 print(f"la interseccion entre A y B es:  {interseccion}")
 
